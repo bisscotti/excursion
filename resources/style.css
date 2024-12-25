@@ -22,3 +22,34 @@ header a{
 header p{
     margin-top: 30px;
 }
+main{
+    text-align: center;
+}
+main p, main h2{
+    font-family: "Verdana";
+}
+main h2{
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+    margin: 30px 0;
+}
+main p{
+    font-size: 21px;
+    color: gray;
+    margin: 10px 0;
+}
+main a{
+    color: aquamarine;
+    font-size: 16px;
+    margin-top: 30px;
+}
+main .container {
+    margin: 15px 0;
+}
+footer p{
+    text-align: right;
+    color: gray;
+    font-size: 26px;
+    margin: 20px;
+}
